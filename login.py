@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+__author__ = "HeliantHuS"
+__version__ = "1.1"
 import re
 import time
 import random
